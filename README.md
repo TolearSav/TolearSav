@@ -10,9 +10,3 @@ Formada em Publicidade e Propaganda pela Univille de Joinville-SC, atualmente pr
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d65f4f)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d65f4f)
 ![](https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d65f4f)
-
-Formas de contato:
-
-luanasaviancontato@gmail.com
-
-https://www.linkedin.com/in/luana-suelen-savian/
