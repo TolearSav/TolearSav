@@ -1,6 +1,6 @@
 ### Olá! 👋🏻
 
-<img src="https://i.imgur.com/eZwmP2a.png" width="700px">
+<img src="https://i.imgur.com/1vBDj3Z.png" width="700px">
 
 Formada em Publicidade e Propaganda pela Univille de Joinville-SC, atualmente professora de Inglês e aspirante a programadora. Mudei-me para São Paulo em 2019 buscando me reencontrar pessoal e profissionalmente, e foi nesse processo que deparei com a programação. Quando quero algo possuo grande determinação e persistência. Gosto de inovação e dinamismo e muitas vezes também gosto de ser surpreendida. A troca de conhecimentos é o que me inspira. 
 
