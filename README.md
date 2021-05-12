@@ -7,6 +7,11 @@ Formada em Publicidade e Propaganda pela Univille de Joinville-SC, atualmente pr
 🎼Amante da música e do teatro(mais ainda se for musical).
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F) 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F) 
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F) 
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F) 
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F)
 ![](https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F)
+![](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F)
+![](https://img.shields.io/badge/Tools-Node.Js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=F86F6F)
